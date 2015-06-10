@@ -1,0 +1,6 @@
+[{"Name":"公文传阅","MenuID":11,"DispalySequence":1,"ControllerName":"","ImageName":"wo"},
+ {"Name":"设备报修","MenuID":12,"DispalySequence":2,"ControllerName":"SANERViewController","ImageName":"yinyong"},
+ {"Name":"我要请假","MenuID":13,"DispalySequence":3,"ControllerName":"SANERViewController","ImageName":"zuixin"},
+ {"Name":"请假审批","MenuID":15,"DispalySequence":4,"ControllerName":"","ImageName":"lianxi"},
+ {"Name":"班级网站","MenuID":16,"DispalySequence":5,"ControllerName":"","ImageName":"lianxi"},
+ ]
